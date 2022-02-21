@@ -1,5 +1,5 @@
 ### Olá Sou Denilson junior, Desenvolvedor Front End e entusiasta por tecnologia! 👋
-
+<hr>
 <div align="center">
   <a href="https://github.com/denilsonjj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonjj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
